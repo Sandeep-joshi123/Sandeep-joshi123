@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Student at KLE Technological university, BVB campus, Hubli 
+1st year ECE student at KLE Technological university, BVB campus, Hubli 
 
 
 ## 🌐 Socials:
