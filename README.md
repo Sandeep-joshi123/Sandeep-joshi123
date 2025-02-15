@@ -1,7 +1,10 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a 1st year ECE student at KLE Technological university, BVB campus, Hubli 
+I am a passionate Electronics and Communication Engineering student at KLE Technological university, BVB campus, Hubli  with a strong interest in coding and problem-solving. Proficient in C and Python, I enjoy tackling challenges through programming and am constantly learning and evolving in the world of technology.
 
+Beyond my academic pursuits, I have a deep appreciation for ancient languages and spend time studying Sanskrit, which helps me sharpen my analytical and logical thinking. I’m also an avid chess player, which further hones my strategic mindset and decision-making skills.
+
+My ultimate goal is to become a problem solver, not only in technical fields but also in broader social contexts. I am dedicated to developing solutions that can make a positive impact on society and am always looking for opportunities to collaborate with like-minded individuals to address real-world challenges.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-joshi-06b908333/)
